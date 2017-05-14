@@ -15,4 +15,4 @@ Testing all the things
 Get-Foo | Where $_.Bar -eq "FizzBinn"}
 
 
-{% endhighligt %}
+{% endhighlight %}
