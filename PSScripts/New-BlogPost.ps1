@@ -1,4 +1,5 @@
 param($Title)
+$date = get-date -Format s
 $string = @"
 ---
 layout: post
@@ -7,10 +8,10 @@ modified:
 categories: blog
 excerpt:
 tags: 
-date: $(Get-Date -Format s)
+date: $date
 ---
 "@
-$file = "{0}-{1}{2}" -f (Get-Date -f "yyyy-MM-dd"),"$Title",".md"
+$file = "{0}-{1}{2}" -f $date,"$Title",".md"
 $dir = (get-item $PSScriptRoot).parent.FullName
 $post = new-item -ItemType File "$dir\_posts\blog\$file"
 Add-Content -Value $string -Path $post.FullName
