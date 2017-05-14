@@ -2,7 +2,8 @@
 layout: page
 title: About Andy Schneider
 excerpt: 
-modified: 2017-05-10T19:02:21
+date : 2017-05-14T12:59:40
+modified: 2017-05-14T12:59:42
 ---
 
 ## A few things to know about Andy
