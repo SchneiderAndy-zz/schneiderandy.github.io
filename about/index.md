@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About Andy Schneider
-excerpt: "Andy Schneider isthe husband of a beautiful wife, father of two beautiful girls, and happy to be alive"
+excerpt: 
 modified: 2017-05-10T19:02:21
 ---
 
 ## A few things to know about Andy
 
-* First thing
-* Second thing
-* I like dumb jokes
-* Stuff
+* Proud to be a husband of a beautiful wife and the father of two beautiful girls
+* I've been an IT Professional for 17 years
+* I like puns
+* I work at Avanade, Inc. in Seattle WA
