@@ -9,7 +9,7 @@ modified:
 categories: blog
 excerpt:
 tags: 
-date: $date
+date: $dateBlog
 ---
 "@
 $file = "{0}-{1}{2}" -f $dateFile,"$Title",".md"
