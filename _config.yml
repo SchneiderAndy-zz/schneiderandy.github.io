@@ -11,6 +11,7 @@ url: https://aschneider.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/
+comments: true
 markdown:    kramdown
 highlighter: rouge
 sass:
@@ -29,7 +30,7 @@ kramdown:
   toc_levels: 1..2
   enable_coderay: false
 
-mathjax: true
+mathjax: false
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
@@ -40,7 +41,7 @@ owner:
   name: Andy Schneider
   avatar: 
   email: 
-  disqus-shortname:
+  disqus-shortname: aschneider-io
   twitter: andys146
   facebook: #username
   github: AndySchneiderDev
