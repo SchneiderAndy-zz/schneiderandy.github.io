@@ -3,7 +3,7 @@ layout: post
 title: A False Dichotomy
 modified:
 categories: blog
-excerpt:
+excerpt: Science vs Religion
 tags: 
 date: 2017-07-02T12:23:56
 ---
