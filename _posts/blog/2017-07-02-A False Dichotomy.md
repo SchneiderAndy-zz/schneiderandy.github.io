@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A False Dichotomy
-modified:
+modified: 2017-07-02T12:23:57
 categories: blog
 excerpt: Science vs Religion
 tags: 
