@@ -1,6 +1,6 @@
 ---
 layout: page
-title: All My Stuff
+title: Blog Posts
 excerpt: "An archive of blog posts sorted by date."
 updated: 2017-05-14T12:35:32
 search_omit: true
